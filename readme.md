@@ -1,3 +1,7 @@
+The end result of following Wes Bos' Redux course at:
+https://learnredux.com/
+
+
 # Learn Redux
 
 A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
